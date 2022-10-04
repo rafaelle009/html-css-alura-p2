@@ -19,3 +19,22 @@ nav a {
      fontt-weight: bold;
      font-size: 22 px;
      text-decooration: none;
+}
+
+ .produtos{
+   width: 940 px;
+   margin: 0 auto;
+}
+
+.produtos li {
+    display :inlane-block
+    text-align:center
+    width: 30%
+    vertical-aling: top;
+ }
+ 
+    .produtos h2 {
+     fant-size: 30 px;
+     font-weight: bold;
+ }
+     
